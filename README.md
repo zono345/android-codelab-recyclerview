@@ -7,11 +7,12 @@ RecyclerViewを使用して写真と言葉をリスト表示します。
   
 ### RecyclerView を使用してスクロール可能なリストを表示する ###
 https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list?hl=ja  
+
+### カードを使用して画像の一覧を表示する ###
+https://developer.android.com/codelabs/basic-android-kotlin-training-display-list-cards?hl=ja  
+  
   
 アプリ画面
 ----  
-### 静止画 ###  
-<img src="" width="600">
-  
 ### GIF ###  
-<img src="" width="300">
+<img src="https://user-images.githubusercontent.com/88254716/198753175-ab6e081f-8ad2-498a-9819-b77e44b2c034.gif" width="300">
